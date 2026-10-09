@@ -1,0 +1,110 @@
+[
+  {
+    "Date": "2024-01-05",
+    "Category": "Food",
+    "Amount": "1500.00",
+    "Description": "Grocery shopping"
+  },
+  {
+    "Date": "2024-01-07",
+    "Category": "Transport",
+    "Amount": "320.00",
+    "Description": "Metro card recharge"
+  },
+  {
+    "Date": "2024-01-12",
+    "Category": "Entertainment",
+    "Amount": "850.00",
+    "Description": "Movie night"
+  },
+  {
+    "Date": "2024-01-15",
+    "Category": "Food",
+    "Amount": "240.50",
+    "Description": "Lunch with team"
+  },
+  {
+    "Date": "2024-01-18",
+    "Category": "Bills",
+    "Amount": "2200.00",
+    "Description": "Electricity bill"
+  },
+  {
+    "Date": "2024-01-22",
+    "Category": "Shopping",
+    "Amount": "3499.00",
+    "Description": "Running shoes"
+  },
+  {
+    "Date": "2024-01-28",
+    "Category": "Health",
+    "Amount": "600.00",
+    "Description": "Pharmacy"
+  },
+  {
+    "Date": "2024-02-02",
+    "Category": "Food",
+    "Amount": "1780.00",
+    "Description": "Monthly groceries"
+  },
+  {
+    "Date": "2024-02-06",
+    "Category": "Transport",
+    "Amount": "1200.00",
+    "Description": "Cab fares"
+  },
+  {
+    "Date": "2024-02-11",
+    "Category": "Entertainment",
+    "Amount": "499.00",
+    "Description": "Music subscription"
+  },
+  {
+    "Date": "2024-02-14",
+    "Category": "Shopping",
+    "Amount": "2150.00",
+    "Description": "Gift"
+  },
+  {
+    "Date": "2024-02-20",
+    "Category": "Bills",
+    "Amount": "1100.00",
+    "Description": "Internet bill"
+  },
+  {
+    "Date": "2024-02-25",
+    "Category": "Other",
+    "Amount": "300.00",
+    "Description": "Stationery"
+  },
+  {
+    "Date": "2024-03-03",
+    "Category": "Food",
+    "Amount": "1620.00",
+    "Description": "Groceries"
+  },
+  {
+    "Date": "2024-03-09",
+    "Category": "Health",
+    "Amount": "1500.00",
+    "Description": "Doctor consultation"
+  },
+  {
+    "Date": "2024-03-16",
+    "Category": "Transport",
+    "Amount": "450.00",
+    "Description": "Fuel"
+  },
+  {
+    "Date": "2024-03-21",
+    "Category": "Bills",
+    "Amount": "2300.00",
+    "Description": "Electricity bill"
+  },
+  {
+    "Date": "2024-03-27",
+    "Category": "Entertainment",
+    "Amount": "1200.00",
+    "Description": "Concert ticket"
+  }
+]
